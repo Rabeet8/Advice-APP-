@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Advice App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An application that generate random intellectual advices on day to day to routine
 
 ## Available Scripts
 
