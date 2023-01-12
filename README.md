@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ## Tech Stack
 
-**Client:** React
+**Client:** React,Axios
 
 
 ## 🔗 Links
